@@ -20,7 +20,7 @@ title                    : "Secretbox Kevin's github"
 title_separator          : "-"
 subtitle                 : "비밀상자 케빈의 레포지토리 입니다. 환영합니다."# site tagline that appears below site title in masthead
 name                     : "Secretbox Kevin"
-description              : "An amazing website."
+description              : "코딩에 관련된 이야기를 나눠요"
 url                      : "https://secretboxkevin.github.io"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
