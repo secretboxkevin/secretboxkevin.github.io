@@ -16,6 +16,13 @@
 - [Lucas - Python:Making a DiscordBot](https://www.youtube.com/playlist?list=PLW3GfRiBCHOhfVoiDZpSz8SM_HybXRPzZ)
   (7편까지는 어느정도 따라 갔는데.. 중반즈음 부터 어려워서 일단 정지 하였습니다.)
   
+- [Spyros](https://www.youtube.com/playlist?list=PLpbRB6ke-VkvP1W2d_nLa1Ott3KrDx2aN)
+(이것도 보면 좋을듯..) 
+
+- discord.py가 어떤 성격인지 아직 파악이 되지 않았네요.
+- [디스코드.py 본진](https://discordpy.readthedocs.io/en/latest/) (여기에서 정보를 많이 얻어야 할듯. )
+- [디스코드개발자포털](https://discord.com/developers/applications)
+
 ### 3. 디스코드 스테이지기능 출시
 디스코드에 새로운 기능인 스테이기능이 출시 되었습니다. 
 요즘에 새롭게 떠오르는 클럽하우스에게 위협을 느꼈는지 
