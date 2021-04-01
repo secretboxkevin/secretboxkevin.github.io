@@ -2,8 +2,8 @@
 main:
   - title: "유튜브"
     url: https://www.youtube.com/channel/UCcX3v3G7ByH8lN1w5ULc0gQ/
-  # - title: "일기장"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "디스코드"
+    url: https://discord.com/invite/pBNzemE
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
