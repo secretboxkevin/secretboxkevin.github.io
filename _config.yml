@@ -29,7 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true # true, false (default)
-words_per_minute         : 250
+words_per_minute         : 180
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "비밀상자케빈"
-  avatar           : "https://blog.naver.com/common/util/imageZoom.jsp?url=https://blogpfthumb-phinf.pstatic.net/MjAyMDEwMDhfMTUz/MDAxNjAyMDk0NDI2NjI2.etMz3SKJhZKtqov-J-h3E11wVDge8aT1p3ktyoOj4Ykg.dYBdqo-ULY-bKR2aIcfMXxKojjBbIYlUWUrR_VOhjtgg.PNG.secretboxkevin/Kevins_ke_vin.png&rClickYn=true&isOwner=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://blogpfthumb-phinf.pstatic.net/MjAyMDEwMDhfMTUz/MDAxNjAyMDk0NDI2NjI2.etMz3SKJhZKtqov-J-h3E11wVDge8aT1p3ktyoOj4Ykg.dYBdqo-ULY-bKR2aIcfMXxKojjBbIYlUWUrR_VOhjtgg.PNG.secretboxkevin/Kevins_ke_vin.png?type=w161" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "조금더 재미있게! 조금더 신나게!"
   location         : "Seoul, Korea"
   email            : "secretboxkevin@naver.com"
